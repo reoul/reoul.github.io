@@ -89,7 +89,7 @@ feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords" 기본
-keywords: "dev,개발,프로그래밍,""
+keywords: "dev,개발,프로그래밍,"
 
 # --- Colours / background image --- #
 
