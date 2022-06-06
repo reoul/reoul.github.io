@@ -14,8 +14,8 @@ toc_sticky: true
 published: true
 #글 공개 여부(false해도 주소로 접근 가능)
 
-date: 2022-01-26
-last_modified_at: 2022-01-26
+date: 2022-01-26T00:00:00+09:00
+lastmod: 2022-06-06T10:27:00+09:00
 ---
 
 이 글은 C#으로 디자인 패턴 중 하나인 빌더 패턴(Builder Pattern)을 공부하고 정리한 글입니다
