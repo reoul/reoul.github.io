@@ -1,5 +1,5 @@
 ---
-title: "Effective C++ 챕터 1 정리" 
+title: "[Effective C++] 챕터 1 : C++에 왔으면 C++의 법을 따릅시다" 
 
 categories:
   - Effective C++
@@ -15,15 +15,13 @@ published: true
 #글 공개 여부(false해도 주소로 접근 가능)
 
 date:       2022-03-30T00:00:00+09:00
-lastmod:    2022-07-21T16:26:00+09:00
+lastmod:    2022-08-09T08:27:00+09:00
 ---
 
 이 글은 스콧 마이어스님의 책 Effective C++을 읽고 정리한 글입니다
 {: .notice--warning}
 
 <br>
-
-# Chapter 1  C++에 왔으면 C++의 법을 따릅시다
 
 ## 📌 항목 1: C++를 언어들의 연합체로 바라보는 안목은 필수
 
