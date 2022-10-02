@@ -1,7 +1,7 @@
 ---
-title: "이세계 아이돌 팬게임 프로젝트"
+title: "완성된 프로젝트"
 layout: archive
-permalink: categories/fan-game-1
+permalink: categories/project
 author_profile: true
 sidebar_main: true
 ---
