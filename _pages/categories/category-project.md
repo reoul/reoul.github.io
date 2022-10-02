@@ -10,7 +10,7 @@ sidebar_main: true
 
 ***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansohxxn&repo=coding-test)](https://github.com/ansohxxn/coding-test)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansohxxn&repo=coding-test)](https://github.com/ansohxxn/coding-test) -->
 
-{% assign posts = site.categories['Fan Game 1'] %}
+{% assign posts = site.categories['Project'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
