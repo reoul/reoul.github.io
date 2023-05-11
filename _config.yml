@@ -20,7 +20,7 @@ title                    : " 게임하는 코딩덕후 💻"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "게임하는 코딩덕후"
-description              : "공부 & 취미 블로그"
+description              : "개발 블로그"
 url                      : "https://reoul.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "reoul/reoul.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,7 @@ google:
 google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : "175d8b922abecacc893ae69a8e2189705aef5feb"
 
 # Social Sharing
 twitter:
