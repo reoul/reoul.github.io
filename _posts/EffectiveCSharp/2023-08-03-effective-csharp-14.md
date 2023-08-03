@@ -4,7 +4,7 @@ title: "[Effective C#] 아이템 14: 초기화 코드가 중복되는 것을 최
 categories:
   - Effective-CSharp
 tags:
-  - [CSharp, Book-Summary]
+  - [CSharp, Book Summary]
 
 
 toc: false                         # 목차

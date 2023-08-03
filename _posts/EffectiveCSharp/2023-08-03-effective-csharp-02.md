@@ -4,7 +4,7 @@ title: "[Effective C#] 아이템 12: 할당 구문보다 멤버 초기화 구문
 categories:
   - Effective-CSharp
 tags:
-  - [CSharp, Book-Summary]
+  - [CSharp, Book Summary]
 
 
 toc: false                         # 목차

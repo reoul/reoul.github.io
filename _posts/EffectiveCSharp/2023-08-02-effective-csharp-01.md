@@ -4,7 +4,7 @@ title: "[Effective C#] 아이템 3: 캐스트보다는 is, as가 좋다"
 categories:
   - Effective-CSharp
 tags:
-  - [CSharp, Book-Summary]
+  - [CSharp, Book Summary]
 
 
 toc: false                         # 목차

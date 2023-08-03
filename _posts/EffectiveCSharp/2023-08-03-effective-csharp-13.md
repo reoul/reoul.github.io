@@ -4,7 +4,7 @@ title: "[Effective C#] 아이템 13: 정적 클래스 멤버를 올바르게 초
 categories:
   - Effective-CSharp
 tags:
-  - [CSharp, Book-Summary]
+  - [CSharp, Book Summary]
 
 
 toc: false                         # 목차

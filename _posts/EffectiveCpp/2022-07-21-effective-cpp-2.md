@@ -4,7 +4,7 @@ title: "[Effective C++] 챕터 2 : 생성자, 소멸자 및 대입 연산자"
 categories:
   - Effective-Cpp
 tags:
-  - [Cpp, Book-Summary]
+  - [Cpp, Book Summary]
 
 
 toc: true

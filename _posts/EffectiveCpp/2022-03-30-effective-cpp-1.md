@@ -4,7 +4,7 @@ title: "[Effective C++] 챕터 1 : C++에 왔으면 C++의 법을 따릅시다"
 categories:
   - Effective-Cpp
 tags:
-  - [Cpp, Book-Summary]
+  - [Cpp, Book Summary]
 
 
 toc: true

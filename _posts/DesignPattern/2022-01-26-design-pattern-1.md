@@ -2,7 +2,7 @@
 title: "빌더 패턴(Builder Pattern)" 
 
 categories:
-  - DesignPattern
+  - Design-Pattern
 tags:
   - [Game Engine, Unity]
 

@@ -4,7 +4,7 @@ title: "[Effective C++] 챕터 3 : 자원 관리"
 categories:
   - Effective-Cpp
 tags:
-  - [Cpp, Book-Summary]
+  - [Cpp, Book Summary]
 
 
 toc: true
