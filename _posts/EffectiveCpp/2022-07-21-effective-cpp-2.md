@@ -11,8 +11,8 @@ toc: true
 toc_sticky: true
 #목차 생성 여부
 
-published: false
-#글 공개 여부(false해도 주소로 접근 가능)
+published: true
+#글 공개 여부
 
 date:       2022-07-21T18:34:00+09:00
 lastmod:    2022-11-07T03:00:00+09:00
