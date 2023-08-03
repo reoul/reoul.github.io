@@ -1,5 +1,5 @@
 ---
-title: "[이펙티브 C#] 챕터2 .NET 리소스 관리"
+title: "[Effective C#] 챕터2 .NET 리소스 관리"
 
 categories:
   - Effective C#

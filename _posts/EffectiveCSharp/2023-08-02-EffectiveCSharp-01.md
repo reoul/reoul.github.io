@@ -1,5 +1,5 @@
 ---
-title: "[이펙티브 C#] 캐스트보다는 is, as가 좋다"
+title: "[Effective C#] 아이템 3: 캐스트보다는 is, as가 좋다"
 
 categories:
   - Effective C#
@@ -17,8 +17,8 @@ lastmod:    2023-08-02T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-캐스트, as, is를 공부하고 정리한 글입니다.<br>
-참고 책 : 이펙티브 C#
+**Effective C#의 아이템 3: 캐스트보다 is, as가 좋다**를 공부하고 정리한 글입니다.<br>
+참고 책 : Effective C#
 {: .notice--warning}
 
 ## 정리
