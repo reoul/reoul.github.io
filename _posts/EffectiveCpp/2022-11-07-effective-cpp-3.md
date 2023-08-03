@@ -5,7 +5,7 @@ categories:
   - Effective-Cpp
 tags:
   - [Cpp, Book-Summary]
-# 태그는 무조건 2개 이상(1개면 글이 안보임)
+
 
 toc: true
 toc_sticky: true

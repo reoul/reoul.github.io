@@ -2,10 +2,10 @@
 title: "빌더 패턴(Builder Pattern)" 
 
 categories:
-  - Design Pattern
+  - DesignPattern
 tags:
-  - [Game Engine, Unity, Design Pattern]
-# 태그는 무조건 2개 이상(1개면 글이 안보임)
+  - [Game Engine, Unity]
+
 
 toc: true
 toc_sticky: true

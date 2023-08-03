@@ -5,7 +5,7 @@ categories:
   - Effective-CSharp
 tags:
   - [CSharp, Book-Summary]
-# 태그는 무조건 2개 이상(1개면 글이 안보임)
+
 
 toc: false                         # 목차
 toc_sticky: false                  # 목차 사이드바 고정
