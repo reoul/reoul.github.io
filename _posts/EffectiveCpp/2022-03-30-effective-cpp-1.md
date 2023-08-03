@@ -2,9 +2,9 @@
 title: "[Effective C++] 챕터 1 : C++에 왔으면 C++의 법을 따릅시다" 
 
 categories:
-  - Effective C++
+  - Effective-Cpp
 tags:
-  - [Effective C++, Book Summary]
+  - [Cpp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
 toc: true

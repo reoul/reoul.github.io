@@ -2,13 +2,13 @@
 title: "[Effective C#] 아이템 13: 정적 클래스 멤버를 올바르게 초기화하라"
 
 categories:
-  - Effective C#
+  - Effective-CSharp
 tags:
-  - [Effective C#, C#, Programming, Book Summary]
+  - [CSharp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
-toc: true                         # 목차
-toc_sticky: true                  # 목차 사이드바 고정
+toc: false                         # 목차
+toc_sticky: false                  # 목차 사이드바 고정
 
 published: true                   #글 공개 여부
 
@@ -17,11 +17,11 @@ lastmod:    2023-08-03T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-이펙티브 C#의 챕터2 .NET 리소스 관리를 읽고 정리한 글입니다.<br>
-참고 책 : 이펙티브 C#
+**Effective C#의 아이템 13: 정적 클래스 멤버를 올바르게 초기화하라**를 공부하고 정리한 글입니다.<br>
+참고 책 : Effective C#
 {: .notice--warning}
 
-## 아이템 13 : 정적 클래스 멤버를 올바르게 초기화하라
+## 정적 클래스 멤버를 올바르게 초기화하라
 
 - 정적 멤버 변수를 포함하는 타입이 있다면 인스턴스를 생성하기 전에 반드시 정적 멤버 변수를 초기화해야 한다
 - 초기화 방법에는 정적 멤버 초기화 구문과 정적 생성자가 있다

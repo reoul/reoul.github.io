@@ -1,7 +1,7 @@
 ---
 title: "Effective C++ 정리"
 layout: archive
-permalink: categories/EffectiveCpp
+permalink: categories/Effective-Cpp
 author_profile: true
 sidebar_main: true
 ---
@@ -14,5 +14,5 @@ Scott Meyers 님의 Effective C++의 책 내용을 정리한 카테고리입니�
 
 ***
 
-{% assign posts = site.categories['Effective C++'] %}
+{% assign posts = site.categories['Effective-Cpp'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

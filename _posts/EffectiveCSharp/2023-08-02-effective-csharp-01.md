@@ -2,13 +2,13 @@
 title: "[Effective C#] 아이템 3: 캐스트보다는 is, as가 좋다"
 
 categories:
-  - Effective C#
+  - Effective-CSharp
 tags:
-  - [Effective C#, C#, Programming, Book Summary]
+  - [CSharp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
-toc: true                         # 목차
-toc_sticky: true                  # 목차 사이드바 고정
+toc: false                         # 목차
+toc_sticky: false                  # 목차 사이드바 고정
 
 published: true                   #글 공개 여부
 
@@ -17,11 +17,11 @@ lastmod:    2023-08-02T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-**Effective C#의 아이템 3: 캐스트보다 is, as가 좋다**를 공부하고 정리한 글입니다.<br>
+**Effective C#의 아이템 3: 캐스트보다는 is, as가 좋다**를 공부하고 정리한 글입니다.<br>
 참고 책 : Effective C#
 {: .notice--warning}
 
-## 정리
+## 캐스트보다는 is, as가 좋다
 
 - C#은 **정적 타이핑을 수행하는 언어**
   - 따라서 타입 불일치가 발생하더라도 **컴파일러가 이를 걸러주기 때문에** 런타임에 타입 검사를 자주 수행할 필요가 없음

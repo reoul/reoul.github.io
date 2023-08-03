@@ -2,13 +2,13 @@
 title: "[Effective C#] 아이템 14: 초기화 코드가 중복되는 것을 최소화하라"
 
 categories:
-  - Effective C#
+  - Effective-CSharp
 tags:
-  - [Effective C#, C#, Programming, Book Summary]
+  - [CSharp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
-toc: true                         # 목차
-toc_sticky: true                  # 목차 사이드바 고정
+toc: false                         # 목차
+toc_sticky: false                  # 목차 사이드바 고정
 
 published: true                   #글 공개 여부
 
@@ -17,11 +17,11 @@ lastmod:    2023-08-03T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-이펙티브 C#의 챕터2 .NET 리소스 관리를 읽고 정리한 글입니다.<br>
-참고 책 : 이펙티브 C#
+**Effective C#의 아이템 14: 초기화 코드가 중복되는 것을 최소화하라**를 공부하고 정리한 글입니다.<br>
+참고 책 : Effective C#
 {: .notice--warning}
 
-## 아이템 14 : 초기화 코드가 중복되는 것을 최소화하라
+## 초기화 코드가 중복되는 것을 최소화하라
 
 - 초기화를 할 때 private 헬퍼 메서드를 작성하기 보다는 공용으로 사용할 수 있는 생성자를 작성하는 편이 낫다
 - private 헬퍼 메서드에서는 readonly 변수를 초기화 하지 못한다

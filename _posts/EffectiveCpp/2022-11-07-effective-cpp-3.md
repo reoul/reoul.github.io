@@ -2,9 +2,9 @@
 title: "[Effective C++] 챕터 3 : 자원 관리" 
 
 categories:
-  - Effective C++
+  - Effective-Cpp
 tags:
-  - [Effective C++, Book Summary]
+  - [Cpp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
 toc: true

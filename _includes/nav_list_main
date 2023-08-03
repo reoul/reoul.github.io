@@ -61,15 +61,15 @@
             <span class="nav__sub-title">Book Summary</span>
             <ul>
                 {% for category in site.categories %}
-                {% if category[0] == "Effective C++" %}
-                <li><a href="/categories/EffectiveCpp" class="">Effective C++ ({{category[1].size}})</a></li>
+                {% if category[0] == "Effective-Cpp" %}
+                <li><a href="/categories/Effective-Cpp" class="">Effective C++ ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                {% if category[0] == "Effective C#" %}
-                <li><a href="/categories/EffectiveCSharp" class="">Effective C# ({{category[1].size}})</a></li>
+                {% if category[0] == "Effective-CSharp" %}
+                <li><a href="/categories/Effective-CSharp" class="">Effective C# ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>

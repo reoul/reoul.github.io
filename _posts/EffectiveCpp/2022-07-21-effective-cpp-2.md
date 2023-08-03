@@ -2,9 +2,9 @@
 title: "[Effective C++] 챕터 2 : 생성자, 소멸자 및 대입 연산자" 
 
 categories:
-  - Effective C++
+  - Effective-Cpp
 tags:
-  - [Effective C++, Book Summary]
+  - [Cpp, Book-Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
 toc: true
