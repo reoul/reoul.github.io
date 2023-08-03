@@ -1,10 +1,10 @@
 ---
-title: "[C#] 캐스트보다는 is, as가 좋다"
+title: "[이펙티브 C#] 캐스트보다는 is, as가 좋다"
 
 categories:
-  - C Sharp
+  - Effective C#
 tags:
-  - [C#, Programming]
+  - [Effective C#, C#, Programming, Book Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
 toc: true                         # 목차

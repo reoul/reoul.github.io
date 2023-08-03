@@ -2,9 +2,9 @@
 title: "[이펙티브 C#] 챕터2 .NET 리소스 관리"
 
 categories:
-  - C Sharp
+  - Effective C#
 tags:
-  - [C#, Programming]
+  - [Effective C#, C#, Programming, Book Summary]
 # 태그는 무조건 2개 이상(1개면 글이 안보임)
 
 toc: true                         # 목차
@@ -38,7 +38,7 @@ public class MyClass
 - 멤버 초기화 구문을 사용하면 컴파일러가 생성자 앞쪽에 초기화 구문을 포함시킨다
   - 초기화 순서 : 멤버 초기화 구문 -> 상위 클래스의 생성자 -> 생성자 본문
 
-### 멤버 초기화 구문을 사용하지 않는 편이 좋은 경우**
+### 멤버 초기화 구문을 사용하지 않는 편이 좋은 경우
   - **객체를 0이나 null로 초기화하는 경우**
     - 기본적으로 0이나 null로 초기화함
     - 다시 0이나 null로 설정하는 것은 성능 낭비
