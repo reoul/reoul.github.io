@@ -1,5 +1,5 @@
 ---
-title: "[Effective C#] 아이템 20: IComparable&ltT&gt와 ICompararer&ltT&gt를 이용하여 객체의 선후 관계를 정의하라"
+title: "[Effective C#] 아이템 20: IComparable&lt;T&gt;와 ICompararer&lt;T&gt;를 이용하여 객체의 선후 관계를 정의하라"
 
 categories:
   - Effective-CSharp
@@ -17,11 +17,11 @@ lastmod:    2023-08-11T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-**Effective C#의 아이템 20: IComparable&ltT&gt와 ICompararer&ltT&gt를 이용하여 객체의 선후 관계를 정의하라**를 공부하고 정리한 글입니다.<br>
+**Effective C#의 아이템 20: IComparable&lt;T&gt;와 ICompararer&lt;T&gt;를 이용하여 객체의 선후 관계를 정의하라**를 공부하고 정리한 글입니다.<br>
 참고 책 : Effective C#
 {: .notice--warning}
 
-## IComparable&ltT&gt와 ICompararer&ltT&gt를 이용하여 객체의 선후 관계를 정의하라
+## IComparable&lt;T&gt;와 ICompararer&lt;T&gt;를 이용하여 객체의 선후 관계를 정의하라
 
 - 컬렉션을 정렬하거나 검색하려면 타입 내에 객체의 선후 관계를 판단할 수 있는 기능을 정의해야 한다
 - 객체의 선후 관계를 정의하기 위해서 IComparable<T>와 ICompararer<T> 2개의 인터페이스를 제공한다.
