@@ -1,5 +1,5 @@
 ---
-title: "[Effective C#] 아이템 30: 루프보다 퀴리 구문이 낫다"
+title: "[Effective C#] 아이템 30: 루프보다 쿼리 구문이 낫다"
 
 categories:
   - Effective-CSharp
@@ -17,13 +17,13 @@ lastmod:    2023-08-29T00:00:00+09:00
 ---
 
 <!-- description : 25자에서 160자 사이 -->
-**Effective C#의 아이템 30: 루프보다 퀴리 구문이 낫다**를 공부하고 정리한 글입니다.<br>
+**Effective C#의 아이템 30: 루프보다 쿼리 구문이 낫다**를 공부하고 정리한 글입니다.<br>
 참고 책 : Effective C#
 {: .notice--warning}
 
-## 루프보다 퀴리 구문이 낫다
+## 루프보다 쿼리 구문이 낫다
 
-- 퀴리 구문을 사용하는 것이 반복문을 사용하는 것보다 더 나은 경우가 꽤 있다
+- 쿼리 구문을 사용하는 것이 반복문을 사용하는 것보다 더 나은 경우가 꽤 있다
 
 ```c#
 // 반복 구문
@@ -42,7 +42,7 @@ private static IEnumerable<Tuple<int, int>> ProduceIndice()
     return storage;
 }
 
-// 퀴리 구문
+// 쿼리 구문
 private static IEnumerable<Tuple<int, int>> QueryIndice()
 {
     return from x in Enumerable.Range(0, 100)
@@ -53,9 +53,9 @@ private static IEnumerable<Tuple<int, int>> QueryIndice()
 }
 ```
 
-- 퀴리 구문의 장점은 반복 구문보다 **코드의 가독성이 높아진다**
+- 쿼리 구문의 장점은 반복 구문보다 **코드의 가독성이 높아진다**
 - 또한 **더욱 다양하게 조합이 가능**하다는 점도 장점이다
-- 통상 로프를 이용하여 직접 코딩하면 퀴리보다 성능이 좋은 코드를 작성할 수 있지만 **항상 그런 것은 아니다**
+- 통상 로프를 이용하여 직접 코딩하면 쿼리보다 성능이 좋은 코드를 작성할 수 있지만 **항상 그런 것은 아니다**
 - 쿼리 구문을 사용하는 것이 거의 대부분의 경우에 반복 구문을 사용하는 것보다 더욱 깔끔하게 코드를 작성할 수 있을 것이다
 
 ***
