@@ -58,7 +58,7 @@
                 {% endfor %}
             </ul>
 
-            <span class="nav__sub-title">Book Summary</span>
+            <!--<span class="nav__sub-title">Book Summary</span>
             <ul>
                 {% for category in site.categories %}
                 {% if category[0] == "Effective-Cpp" %}
@@ -72,7 +72,7 @@
                 <li><a href="/categories/Effective-CSharp" class="">Effective C# ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
-            </ul>
+            </ul>-->
             <span class="nav__sub-title">etc.</span>
             <ul>
                 {% for category in site.categories %}

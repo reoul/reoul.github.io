@@ -10,7 +10,7 @@ tags:
 toc: false                         # 목차
 toc_sticky: false                  # 목차 사이드바 고정
 
-published: true                   #글 공개 여부
+published: false                   #글 공개 여부
 
 date:       2023-08-02T00:00:00+09:00
 lastmod:    2023-08-02T00:00:00+09:00
